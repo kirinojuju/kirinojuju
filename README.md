@@ -12,7 +12,7 @@
 ### Building
 
 - **StudentOS** — personal productivity platform, built end-to-end from requirements to MVP
-- **Uniconnect** - social media platform, built for ISNE community and CMU
+- **CMUnite** - social media platform, built for ISNE community and CMU
 - **PROJECT PHOENIX** — resilient infrastructure platform: simulate → detect → diagnose → recover → learn → deploy → operate
 - **PUSENBI** — solo action RPG, doubling as a real workload for future infrastructure experiments
 
